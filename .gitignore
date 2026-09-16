@@ -183,3 +183,10 @@ sphinx_*/
 
 # Rust analyzer configuration
 /rust-project.json
+
+# etc.
+mkboot_flash.sh
+AIK_boot/
+AIK/
+magiskboot_vendor_boot/
+
